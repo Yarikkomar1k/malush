@@ -1,5 +1,12 @@
 {
   "users": [
+    {
+      "id": 2,
+      "name": "Yarik",
+      "surname": "Kulachek",
+      "photo_url": "https://i.ytimg.com/vi/CZCj1ZHHH0A/maxresdefault.jpg",
+      "balance": 42,
+    }
 
   ]
 }
